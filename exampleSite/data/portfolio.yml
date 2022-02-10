@@ -1,6 +1,6 @@
 portfolioitems:
   # portfolio category
-  - title: Blockchain Projects
+  - title: Coding Projects
     portfolioitem:
       - name: Project 1
         image: '/images/portfolio/blockchain-grafana.png' 
