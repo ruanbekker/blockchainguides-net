@@ -1,8 +1,8 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "blockchainguides.net"
+author = "Ruan Bekker"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "Everything blockchain"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -19,9 +19,9 @@ doNotLoadAnimations = false
 #googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-singleDateFormat = "2/1/2006"
-indexDateFormat = "2/1/2006"
-listDateFormat = "2/1/2006"
+singleDateFormat = "2006/1/2"
+indexDateFormat = "2006/1/2"
+listDateFormat = "2006/1/2"
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
@@ -52,19 +52,19 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/ruanbekker/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/ruanbekker"
 
 [[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://www.twitter.com/ruanbekker"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:ruan@ruanbekker.com"
