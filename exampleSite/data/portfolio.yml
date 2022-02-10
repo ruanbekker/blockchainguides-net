@@ -1,16 +1,18 @@
 portfolioitems:
   # portfolio category
-  - title: Coding Projects
+  - title: Blockchain Projects
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+      - name: Blockchain Testnet Weekend Project
+        image: 'https://user-images.githubusercontent.com/567298/135833192-2750bae4-245c-4bf2-9d37-6515cd92f5ba.png'
+        link: https://github.com/ruanbekker/blockchain-testnet-weekend-project
+        description: 'Weekend Project to tinker with Blockchain and Transactions. I wanted to host different cryptocurrency full nodes running on the testnet's with wallets enabled on my raspberry pi's, then mine some funds and use the json rpc to create dashboards in Grafana.'
         tags:
-          - Tag 1
-          - Tag 2
+          - bitcoin
+          - ethereum
+          - grafana
+          - python
         status: 'Finished'
-        start: '2020'
+        start: '2021'
         end: '2021'
       - name: Project 2
         image: '/images/portfolio/code.jpg'
