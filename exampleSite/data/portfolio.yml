@@ -5,7 +5,7 @@ portfolioitems:
       - name: Project 1
         image: '/images/portfolio/code.jpg' 
         link: https://gohugo.io/
-        description: 'Weekend Project to tinker with Blockchain and Transactions. I wanted to host different cryptocurrency full nodes running on the testnet's with wallets enabled on my raspberry pis, then mine some funds and use the json rpc to create dashboards in Grafana.'
+        description: 'Weekend Project to tinker with Blockchain and Transactions. I wanted to host different cryptocurrency full nodes running on the testnets with wallets enabled on my raspberry pis, then mine some funds and use the json rpc to create dashboards in Grafana.'
         tags:
           - bitcoin
           - ethereum
