@@ -3,7 +3,7 @@ portfolioitems:
   - title: Blockchain Projects
     portfolioitem:
       - name: Blockchain Testnet Weekend Project
-        image: 'https://user-images.githubusercontent.com/567298/135833192-2750bae4-245c-4bf2-9d37-6515cd92f5ba.png'
+        image: '/images/portfolio/blockchain-grafana.png' 
         link: https://github.com/ruanbekker/blockchain-testnet-weekend-project
         description: 'Weekend Project to tinker with Blockchain and Transactions. I wanted to host different cryptocurrency full nodes running on the testnet's with wallets enabled on my raspberry pi's, then mine some funds and use the json rpc to create dashboards in Grafana.'
         tags:
