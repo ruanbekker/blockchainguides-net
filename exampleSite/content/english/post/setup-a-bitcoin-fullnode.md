@@ -15,7 +15,7 @@ categories = [
 series = ["blockchain-introduction"]
 +++
 
-![bitcoin](https://user-images.githubusercontent.com/567298/153724574-e8ac8a63-f630-4760-bfd1-bdaeb4dc2313.png)
+![bitcoin](https://user-images.githubusercontent.com/567298/153725244-d93accc6-0a32-460e-8d0f-9331276bf4b8.png)
 
 In this tutorial we will install and configure a bitcoin fullnode. From our previous post, we discussed what a fullnode is, but to recap:
 
