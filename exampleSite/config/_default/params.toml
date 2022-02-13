@@ -71,3 +71,8 @@ url = "https://www.twitter.com/ruanbekker"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:ruan@ruanbekker.com"
+
+[[socialIcons]]
+icon = "fa fa-home"
+title = "website"
+url = "https://ruan.dev"
