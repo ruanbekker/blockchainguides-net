@@ -6,7 +6,7 @@ aliases = ["about-me", "about", "contact"]
 author = "Ruan Bekker"
 +++
 
-Hello! My name is Ruan Bekker, I currently work as a DevOps Engineer for **[Bloqtech Solutions](https://www.linkedin.com/company/bloqtech/)**, specializing in the blockchain industry.
+Hello! My name is [Ruan Bekker](https://ruan.dev/?referral=blockchainguides.net), I currently work as a DevOps Engineer for **[Bloqtech Solutions](https://www.linkedin.com/company/bloqtech/)**, specializing in the blockchain industry.
 
 ## Me
 
