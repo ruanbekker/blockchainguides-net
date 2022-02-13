@@ -1,11 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://blockchainguides.net"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
-
-# theme as hugo module
-#theme = "github.com/lxndrblz/anatole"
-# theme as git submodule
+title = "Blockchain Guides by Ruan Bekker"
 theme = "anatole"
 
 summarylength = 10
@@ -16,7 +12,7 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 # Google Analytics
-#googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-192905531-2"
 
 # Syntax highlighting
 pygmentsUseClasses = true   
