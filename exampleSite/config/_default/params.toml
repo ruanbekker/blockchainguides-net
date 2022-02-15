@@ -22,9 +22,9 @@ contactFormAction = "https://formspree.io/f/xqknqaye"
 # Google Site Verify
 googleSiteVerify = "bQX164LSa-lT02MpsUyStP7fBchjsrVnFKBpCUjtRYo"
 
-singleDateFormat = "2006/01/30"
-indexDateFormat = "2006/01/30"
-listDateFormat = "2006/01/30"
+singleDateFormat = "2006/01/02"
+indexDateFormat = "2006/01/02"
+listDateFormat = "2006/01/02"
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
