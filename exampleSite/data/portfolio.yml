@@ -14,42 +14,33 @@ portfolioitems:
         status: 'Finished'
         start: '2021'
         end: '2021'
-      - name: Project 2
+      - name: Python Flask Bitcoin Wallet
         image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        link: https://github.com/ruanbekker/bitcoin-flask-wallet-app
+        description: 'Hobby Project with Python Flask and Bitcoin RPC for a Web Based Wallet App.'
         status: 'On Hold'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        link: https://gohugo.io/
-        status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        tags:
-          - Tag 1
-          - Tag 2
+          - bitcoin
+          - python
+      
   # portfolio category
-  - title: Research
+  - title: Other Projects
     portfolioitem:
-      - name: Project 1
+      - name: Cheatsheet Repository
         image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
+        link: https://github.com/ruanbekker/cheatsheets
+        description: 'A github repository with cheatsheets of over 60 different topics'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 2
+          - cheatsheets
+      - name: Containers Blog
         image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
+        link: https://containers.fan/
+        description: 'A tech blog focusing on containers'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
+          - containers
+      - name: Project List
         image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
+        link: https://ruan.dev/projects/
+        description: 'A list of my projects on my website'
         tags:
-          - Tag 1
-          - Tag 2
+          - projects
