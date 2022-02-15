@@ -1,7 +1,7 @@
 +++
 author = "Ruan Bekker"
 title = "Setup a Bitcoin Fullnode"
-date = "2021-02-12"
+date = "2022-02-12"
 description = "This tutorial will demonstrate how to setup a bitcoin fullnode to interact with the blockchain."
 tags = [
     "blockchain",

@@ -1,7 +1,7 @@
 +++
 author = "Ruan Bekker"
 title = "Getting to know Blockchain Basics"
-date = "2021-02-10"
+date = "2022-02-10"
 description = "Getting to know the terminology of blockchain before we get our hands dirty."
 tags = [
     "blockchain",
