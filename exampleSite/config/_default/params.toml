@@ -73,6 +73,11 @@ title = "e-mail"
 url = "mailto:ruan@ruanbekker.com"
 
 [[socialIcons]]
+icon = "fas fa-rss"
+title = "RSS"
+url = "https://blockchainguides.net/post/index.xml"
+
+[[socialIcons]]
 icon = "fa fa-home"
 title = "website"
 url = "https://ruan.dev"
