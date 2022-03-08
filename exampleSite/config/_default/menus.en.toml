@@ -29,7 +29,7 @@
   url = "/contact/"
 
   [[footer]]
-  name = "imprint"
+  name = "about me"
   weight = 1
   identifier = "imprint"
-  url = "/imprint/"
+  url = "https://ruan.dev/?referral=blockchainguides.net"
