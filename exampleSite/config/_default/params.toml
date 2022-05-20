@@ -18,13 +18,15 @@ doNotLoadAnimations = false
 contactFormAction = "https://formspree.io/f/xqknqaye"
 
 # Google Fonts
-#googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
+# googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
+
 # Google Site Verify
 googleSiteVerify = "bQX164LSa-lT02MpsUyStP7fBchjsrVnFKBpCUjtRYo"
 
 singleDateFormat = "2006/01/02"
 indexDateFormat = "2006/01/02"
 listDateFormat = "2006/01/02"
+
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
@@ -42,8 +44,8 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 # serverURL = "https://analytics.example.com"
 
 [umami]
-# serverURL = "example.com"
-# id = "94db1cb1-74f4-4a40-ad6c-962362670409"
+serverURL = "umami-analytics.ruan.dev"
+id = "225dfa21-52e6-41a3-96a0-0f82bb42f34f"
 
 ## Math settings
 [math]
